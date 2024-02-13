@@ -1,7 +1,7 @@
 
 # Heading 
 
-### Heading Input Syntax
+### Heading Input Syntax :
 ```
 # Heading 1
 ## Heading 2
@@ -10,7 +10,7 @@
 ##### Heading 5
 ```
 
-### Output
+### Output :
 
 # Heading 1
 ## Heading 2
@@ -22,7 +22,7 @@
 
 # Text Style Effect
 
-### Text Style Input Syntax
+### Text Style Input Syntax :
 ```
 Text **Bold** Effect in Readme file
 Text *Italic* Effect in Readme File
@@ -30,7 +30,7 @@ Text ***Bold and Italic*** in Readme File
 Text ~~Strike Effect~~ in Readme File
 ```
 
-### Output
+### Output :
 Text **Bold** Effect in Readme file  <br>
 Text *Italic* Effect in Readme File  <br>
 Text ***Bold and Italic*** in Readme File  <br>
@@ -41,6 +41,13 @@ Text ~~Strike Effect~~ in Readme File  <br>
 
 # Image Link 
 
+### Text Style Input Syntax :
+```
+syntax : [Text Title](Url Link)
+eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
+```
+### Output :
+[CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 <br>
 
 
