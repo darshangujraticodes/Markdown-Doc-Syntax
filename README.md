@@ -18,7 +18,7 @@
 #### Heading 4
 ##### Heading 5
 <br>
----
+
 
 # Text Style Effect
 
@@ -42,7 +42,7 @@ Text ~~Strike Effect~~ in Readme File  <br>
 # Image Link 
 
 <br>
----
+
 
 # Alert Message 
 
