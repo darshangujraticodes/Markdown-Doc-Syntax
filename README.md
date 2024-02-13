@@ -6,7 +6,7 @@
 5. [Alert Message Box](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#alert-message)
 6. [Ordered and Unoredered List](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#ordered-and-unordered-list)
 7. [Text Higligher](https://github.com/Digital-Darsh/Markdown-Syntax/tree/main?tab=readme-ov-file#text-highlighter)
-8. [Code Block]()
+8. [Code Block](https://github.com/Digital-Darsh/Markdown-Syntax/tree/main?tab=readme-ov-file#code-block)
 
 <br>
 
@@ -159,21 +159,22 @@ It can be created by using any of this three symbol (*, -, and +)
 # Text Highlighter
 Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick (`text`)
 
-### Insert Link Syntax :
+### Highlighter Syntax :
 ```
 The core purpose of the CSTechtube Channel to make students skillful with both
 `Hard skill` and `softskill` to become Industry Ready Professional and Teach them
 Skills based on Production and Industry Required Methods.
 ```
 
-### Output :
+### Highlighter Output :
 The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional.
 
 <br>
 
 # Code Block
 
-### Insert Link Syntax :
+### Code Block Syntax :
+To Showcase code it need to be wrapped inside 3 Backticks (```  ```)
 ```
   <html>
     <head>
@@ -185,17 +186,4 @@ The core purpose of the CSTechtube Channel to make students skillful with both `
   </html>
 ```
 
-### Output :
-```
-```
-  <html>
-    <head>
-      <title>Hello World !!</title>
-    </head>
-    <body>
-      <h1>Welcome to CS TechTube Channel</h1>
-    </body>
-  </html>
-```
-```
 <br>
