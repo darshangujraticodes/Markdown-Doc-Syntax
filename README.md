@@ -1,10 +1,5 @@
 # Table Of Content 
-<ul>
-  <li> [Heading](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#heading) </li>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-</ul>
+1. [Heading](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#heading)
 
 # Heading
 
