@@ -163,16 +163,22 @@ It can be created by using any of this three symbol (*, -, and +)
 # Text Highlighter
 Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick 
 text should be wrapped inside single backtick (`)
+
+Also useful for color highlighter 
+
 ### Highlighter Syntax :
 ```
 The core purpose of the CSTechtube Channel to make students skillful with both
 `Hard skill` and `softskill` to become Industry Ready Professional and Teach them
 Skills based on Production and Industry Relevant Methods.
+
+Also useful for color showcase Yellow `#fed700`
 ```
 
 ### Highlighter Output :
 The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional and Teach them Skills based on Production and Industry Relevant Methods.
 
+Also useful for color showcase Yellow `#fed700`
 <br>
 
 # Code Block
