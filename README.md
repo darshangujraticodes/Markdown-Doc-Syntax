@@ -1,4 +1,21 @@
 
+## Heading Syntax
+
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+```
+
+
+
+
+
+
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
