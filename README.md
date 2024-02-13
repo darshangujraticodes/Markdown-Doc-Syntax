@@ -186,4 +186,18 @@ To Showcase code it need to be wrapped inside 3 Backticks (```)
   </html>
 ```
 
+### Highlighter Output :
+````
+```
+  <html>
+    <head>
+      <title>Hello World !!</title>
+    </head>
+    <body>
+      <h1>Welcome to CS TechTube Channel</h1>
+    </body>
+  </html>
+```
+````
+
 <br>
