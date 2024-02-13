@@ -1,8 +1,7 @@
 
 # Heading Syntax
 
-Code Input Syntax
-
+#### Heading Input Syntax
 ```
 # Heading 1
 ## Heading 2
@@ -10,6 +9,7 @@ Code Input Syntax
 #### Heading 4
 ##### Heading 5
 ```
+
 Output
 
 # Heading 1
@@ -18,7 +18,24 @@ Output
 #### Heading 4
 ##### Heading 5
 
+---
 
+# Text Style Syntax
+
+#### Text Style Input Syntax
+```
+Text **Bold** Effect in Readme file
+Text *Italic* Effect in Readme File
+Text ***Bold and Italic*** in Readme File
+Text ~~Strike Effect~~ in Readme File
+```
+
+Text **Bold** Effect in Readme file
+Text *Italic* Effect in Readme File
+Text ***Bold and Italic*** in Readme File
+Text ~~Strike Effect~~ in Readme File
+
+---
 
 
 
