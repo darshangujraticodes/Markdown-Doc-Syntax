@@ -39,7 +39,7 @@ Text ~~Strike Effect~~ in Readme File  <br>
 
 # Insert Link in Text   
 
-### Insert Link Input Syntax :
+### Insert Link Syntax :
 ```
 syntax : [Text Title](Url Link)
 eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
@@ -48,9 +48,10 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 <br>
 
-
 # Alert Message 
 
+### Insert Link Syntax :
+```
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -65,3 +66,21 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+```
+
+### Output :
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+<br>
