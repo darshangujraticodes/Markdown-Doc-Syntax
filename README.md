@@ -161,8 +161,9 @@ Helpful to highlight text in paragraph also with can help to mention color code,
 
 ### Insert Link Syntax :
 ```
-The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill`
-to become Industry Ready Professional and Teach them Skills based on Production and Industry Required Methods.
+The core purpose of the CSTechtube Channel to make students skillful with both
+`Hard skill` and `softskill` to become Industry Ready Professional and Teach them
+Skills based on Production and Industry Required Methods.
 ```
 
 ### Output :
