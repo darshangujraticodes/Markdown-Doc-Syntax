@@ -1,5 +1,5 @@
 
-# Heading Syntax
+# Heading 
 
 #### Heading Input Syntax
 ```
@@ -10,7 +10,7 @@
 ##### Heading 5
 ```
 
-Output
+### Output
 
 # Heading 1
 ## Heading 2
@@ -20,7 +20,7 @@ Output
 
 ---
 
-# Text Style Syntax
+# Text Style Effect
 
 #### Text Style Input Syntax
 ```
@@ -30,6 +30,7 @@ Text ***Bold and Italic*** in Readme File
 Text ~~Strike Effect~~ in Readme File
 ```
 
+### Output
 Text **Bold** Effect in Readme file  <br>
 Text *Italic* Effect in Readme File  <br>
 Text ***Bold and Italic*** in Readme File  <br>
@@ -37,9 +38,12 @@ Text ~~Strike Effect~~ in Readme File  <br>
 
 ---
 
+# Image Link 
 
 
+---
 
+# Alert Message 
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -47,12 +51,8 @@ Text ~~Strike Effect~~ in Readme File  <br>
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
-
-
-
 > [!TIP]
 > Helpful advice for doing things better or more easily.
-
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
