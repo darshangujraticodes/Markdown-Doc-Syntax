@@ -175,18 +175,8 @@ The core purpose of the CSTechtube Channel to make students skillful with both `
 
 ### Code Block Syntax :
 To Showcase code it need to be wrapped inside 3 Backticks (```)
-```
-  <html>
-    <head>
-      <title>Hello World !!</title>
-    </head>
-    <body>
-      <h1>Welcome to CS TechTube Channel</h1>
-    </body>
-  </html>
-```
 
-### Highlighter Output :
+### Code Block Input Syntax :
 ````
 ```
   <html>
@@ -199,5 +189,17 @@ To Showcase code it need to be wrapped inside 3 Backticks (```)
   </html>
 ```
 ````
+
+### Code Block Output Syntax :
+```
+  <html>
+    <head>
+      <title>Hello World !!</title>
+    </head>
+    <body>
+      <h1>Welcome to CS TechTube Channel</h1>
+    </body>
+  </html>
+```
 
 <br>
