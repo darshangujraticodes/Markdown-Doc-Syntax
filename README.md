@@ -39,13 +39,16 @@ Text **Bold** Effect in Readme file
 Text *Italic* Effect in Readme File
 Text ***Bold and Italic*** in Readme File
 Text ~~Strike Effect~~ in Readme File
+Emoji in Text :+1:
 ```
+For a full list of available emoji and codes, see the [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ### Output :
 Text **Bold** Effect in Readme file  <br>
 Text *Italic* Effect in Readme File  <br>
 Text ***Bold and Italic*** in Readme File  <br>
 Text ~~Strike Effect~~ in Readme File  <br>
+Emoji in Text  :+1:
 
 <br>
 
