@@ -34,6 +34,7 @@ Text **Bold** Effect in Readme file  <br>
 Text *Italic* Effect in Readme File  <br>
 Text ***Bold and Italic*** in Readme File  <br>
 Text ~~Strike Effect~~ in Readme File  <br>
+
 <br>
 
 # Insert Link in Text   
@@ -45,6 +46,18 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 ```
 ### Output :
 [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
+
+<br>
+
+# Insert Image   
+
+### Insert Image Syntax :
+```
+syntax : ![Alt Text](Image Url Link)
+eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs-1.png)
+```
+### Output :
+![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs-1.png)
 
 <br>
 
