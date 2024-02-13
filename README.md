@@ -30,10 +30,10 @@ Text ***Bold and Italic*** in Readme File
 Text ~~Strike Effect~~ in Readme File
 ```
 
-Text **Bold** Effect in Readme file
-Text *Italic* Effect in Readme File
-Text ***Bold and Italic*** in Readme File
-Text ~~Strike Effect~~ in Readme File
+Text **Bold** Effect in Readme file  <br>
+Text *Italic* Effect in Readme File  <br>
+Text ***Bold and Italic*** in Readme File  <br>
+Text ~~Strike Effect~~ in Readme File  <br>
 
 ---
 
