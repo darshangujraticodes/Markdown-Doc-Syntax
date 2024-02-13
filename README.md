@@ -101,6 +101,7 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 3. Item 3
 
 ### Unordered List Syntax :
+It can be created by using any of this three symbol (*, -, and +)
 ```
 - Item 1
 * Item 2
@@ -111,5 +112,21 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 - Item 1
 * Item 2
 + Item 3
+
+### Unordered List using HTML Syntax :
+```
+<ul>
+  <li> Item 1</li>
+  <li> Item 2</li>
+  <li> Item 3</li>
+</ul>
+```
+
+### Output :
+<ul>
+  <li> Item 1</li>
+  <li> Item 2</li>
+  <li> Item 3</li>
+</ul>
 
 <br>
