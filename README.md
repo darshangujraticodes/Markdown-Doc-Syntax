@@ -5,6 +5,8 @@
 4. [Insert Image](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-image)
 5. [Alert Message Box](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#alert-message)
 6. [Ordered and Unoredered List](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#ordered-and-unordered-list)
+7. [Text Higligher]()
+8. [Code Block]()
 
 <br>
 
@@ -151,5 +153,18 @@ It can be created by using any of this three symbol (*, -, and +)
   <li> Item 2</li>
   <li> Item 3</li>
 </ul>
+
+<br>
+
+# Text Highlighter
+Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick (`text`)
+
+### Insert Link Syntax :
+```
+The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional.
+```
+
+### Output :
+The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional.
 
 <br>
