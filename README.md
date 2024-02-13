@@ -37,11 +37,9 @@ Text ***Bold and Italic*** in Readme File  <br>
 Text ~~Strike Effect~~ in Readme File  <br>
 <br>
 
----
+# Insert Link in Text   
 
-# Image Link 
-
-### Text Style Input Syntax :
+### Insert Link Input Syntax :
 ```
 syntax : [Text Title](Url Link)
 eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
