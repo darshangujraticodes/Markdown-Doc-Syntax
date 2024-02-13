@@ -1,7 +1,7 @@
 
 # Heading 
 
-#### Heading Input Syntax
+### Heading Input Syntax
 ```
 # Heading 1
 ## Heading 2
@@ -17,12 +17,12 @@
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-
+<br>
 ---
 
 # Text Style Effect
 
-#### Text Style Input Syntax
+### Text Style Input Syntax
 ```
 Text **Bold** Effect in Readme file
 Text *Italic* Effect in Readme File
@@ -35,12 +35,13 @@ Text **Bold** Effect in Readme file  <br>
 Text *Italic* Effect in Readme File  <br>
 Text ***Bold and Italic*** in Readme File  <br>
 Text ~~Strike Effect~~ in Readme File  <br>
+<br>
 
 ---
 
 # Image Link 
 
-
+<br>
 ---
 
 # Alert Message 
