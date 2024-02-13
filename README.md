@@ -6,7 +6,7 @@
   <li>  </li>
 </ul>
 
-# Heading <a name="heading"></a>
+# Heading
 
 ### Heading Input Syntax :
 ```
