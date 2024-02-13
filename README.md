@@ -48,7 +48,6 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 
 <br>
-<br>
 
 # Alert Message 
 
