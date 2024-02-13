@@ -1,4 +1,3 @@
-
 # Heading 
 
 ### Heading Input Syntax :
@@ -84,4 +83,33 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+<br>
+
+# Ordered and Unordered List
+
+### Ordered List Syntax :
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+
+### Output :
+1. Item 1
+2. Item 2
+3. Item 3
+
+### Unordered List Syntax :
+```
+- Item 1
+* Item 2
++ Item 3
+```
+
+### Output :
+- Item 1
+* Item 2
++ Item 3
+
 <br>
