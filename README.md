@@ -57,7 +57,7 @@ syntax : ![Alt Text](Image Url Link)
 eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs-1.png)
 ```
 ### Output :
-![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs-1.png)
+![CS Techtube]([https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs-1.png](https://drive.google.com/file/d/1MpeYO0hT82tDt9LvpSwberH7XxQXtmmZ/view?usp=sharing))
 
 <br>
 
