@@ -163,11 +163,11 @@ text should be wrapped inside single backtick (`)
 ```
 The core purpose of the CSTechtube Channel to make students skillful with both
 `Hard skill` and `softskill` to become Industry Ready Professional and Teach them
-Skills based on Production and Industry Required Methods.
+Skills based on Production and Industry Relevant Methods.
 ```
 
 ### Highlighter Output :
-The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional.
+The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional and Teach them Skills based on Production and Industry Relevant Methods.
 
 <br>
 
