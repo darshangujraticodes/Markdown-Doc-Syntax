@@ -1,5 +1,12 @@
 # Table Of Content 
 1. [Heading](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#heading)
+2. [Text Style Effect](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#text-style-effect)
+3. [Insert Text Link ](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-link-in-text)
+4. [Insert Image](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-image)
+5. [Alert Message Box](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#alert-message)
+6. [Ordered and Unoredered List](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#ordered-and-unordered-list)
+
+<br>
 
 # Heading
 
