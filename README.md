@@ -5,7 +5,7 @@
 4. [Insert Image](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-image)
 5. [Alert Message Box](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#alert-message)
 6. [Ordered and Unoredered List](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#ordered-and-unordered-list)
-7. [Text Higligher]()
+7. [Text Higligher](https://github.com/Digital-Darsh/Markdown-Syntax/tree/main?tab=readme-ov-file#text-highlighter)
 8. [Code Block]()
 
 <br>
@@ -169,4 +169,33 @@ Skills based on Production and Industry Required Methods.
 ### Output :
 The core purpose of the CSTechtube Channel to make students skillful with both `Hard skill` and `softskill` to become Industry Ready Professional.
 
+<br>
+
+# Code Block
+
+### Insert Link Syntax :
+```
+  <html>
+    <head>
+      <title>Hello World !!</title>
+    </head>
+    <body>
+      <h1>Welcome to CS TechTube Channel</h1>
+    </body>
+  </html>
+```
+
+### Output :
+```
+```
+  <html>
+    <head>
+      <title>Hello World !!</title>
+    </head>
+    <body>
+      <h1>Welcome to CS TechTube Channel</h1>
+    </body>
+  </html>
+```
+```
 <br>
