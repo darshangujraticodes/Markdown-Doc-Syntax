@@ -77,6 +77,8 @@ eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs
 
 ### Insert Link Syntax :
 ```
+> Simple Text Quote
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -94,6 +96,8 @@ eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs
 ```
 
 ### Output :
+> Simple Text Quote
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
