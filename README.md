@@ -157,8 +157,8 @@ It can be created by using any of this three symbol (*, -, and +)
 <br>
 
 # Text Highlighter
-Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick (`text`)
-
+Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick 
+text should be wrapped inside single backtick (`)
 ### Highlighter Syntax :
 ```
 The core purpose of the CSTechtube Channel to make students skillful with both
@@ -174,7 +174,7 @@ The core purpose of the CSTechtube Channel to make students skillful with both `
 # Code Block
 
 ### Code Block Syntax :
-To Showcase code it need to be wrapped inside 3 Backticks (```  ```)
+To Showcase code it need to be wrapped inside 3 Backticks (```)
 ```
   <html>
     <head>
