@@ -11,6 +11,7 @@
 9. [DropDown Arrow](https://github.com/darshangujraticodes/python-practice/blob/main/Markdown-Syntax.md#dropdown-arrow)
 10. [Table]()
 11. [Task List]()
+12. [Superscript / Subscript]()
 
 
 <br>
@@ -362,3 +363,17 @@ It help display the bug issue which is fixed or not and relevant bug which are p
 - [ ] Update the website
 - [ ] Contact the media
 
+<br>
+
+<br>
+
+# Superscript / Subscript
+
+It help to display scientific or maths equations
+
+### Code Syntax :
+```
+Subscript = H~2~O  or  H<sub>2</sub>O
+
+Superscript = X^2^  or  X<sup>2</sup> 
+```
