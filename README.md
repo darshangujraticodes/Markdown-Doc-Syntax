@@ -12,7 +12,7 @@
 10. [Table](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
 11. [Task List](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
 12. [Superscript / Subscript](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
-13. Emojis
+13. [Emojis](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#using-emojis)
 
 
 <br>
@@ -395,10 +395,16 @@ Superscript =   X<sup>2</sup>
 It helps to make document attactive 
 This Git file consist of all short command of emojis which you can use to make doc attractive
 
-### Code Block Table Syntax :
+Can Checkout Official Document 
+[Markdown Emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer)
+
+
+### Emoji Code Syntax :
+
 ```
 Hi :wave: I am Darshan Gujrati , Full stack Developer :computer: , Explorer :camping: & Bicyclist 	:bicyclist:
 ```
+### Output :
 
 Hi, :wave: I am Darshan Gujrati , Full stack Developer :computer: , Explorer :camping: & Bicyclist 	:bicyclist:
 
