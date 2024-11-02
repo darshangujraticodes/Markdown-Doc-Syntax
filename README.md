@@ -1,16 +1,16 @@
 # Table Of Content 
-1. [Heading](heading)
-2. [Text Style Effect](texteffect)
-3. [Insert Text Link ](insertlink)
-4. [Insert Image](insertimage)
-5. [Alert Message Box](alertbox)
-6. [Ordered and Unoredered List](orderlist)
-7. [Text Higligher](texthighlighter)
-8. [Code Block](codeblock)
+1. [Heading](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+2. [Text Style Effect](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+3. [Insert Text Link ](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+4. [Insert Image](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+5. [Alert Message Box](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+6. [Ordered and Unoredered List](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+7. [Text Higligher](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
+8. [Code Block](https://github.com/darshangujraticodes/Markdown-Doc-Syntax/blob/main/README.md#heading-heading)
 
 <br>
 
-# Heading {#heading}
+# Heading 
 
 ### Heading Input Syntax :
 ```
