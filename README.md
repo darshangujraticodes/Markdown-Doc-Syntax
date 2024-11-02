@@ -1,16 +1,16 @@
 # Table Of Content 
-1. [Heading](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#heading)
-2. [Text Style Effect](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#text-style-effect)
-3. [Insert Text Link ](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-link-in-text)
-4. [Insert Image](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#insert-image)
-5. [Alert Message Box](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#alert-message)
-6. [Ordered and Unoredered List](https://github.com/Digital-Darsh/Markdown-Syntax/blob/main/README.md#ordered-and-unordered-list)
-7. [Text Higligher](https://github.com/Digital-Darsh/Markdown-Syntax/tree/main?tab=readme-ov-file#text-highlighter)
-8. [Code Block](https://github.com/Digital-Darsh/Markdown-Syntax/tree/main?tab=readme-ov-file#code-block)
+1. [Heading](heading)
+2. [Text Style Effect](texteffect)
+3. [Insert Text Link ](insertlink)
+4. [Insert Image](insertimage)
+5. [Alert Message Box](alertbox)
+6. [Ordered and Unoredered List](orderlist)
+7. [Text Higligher](texthighlighter)
+8. [Code Block](codeblock)
 
 <br>
 
-# Heading
+# Heading {#heading}
 
 ### Heading Input Syntax :
 ```
@@ -31,7 +31,7 @@
 
 <br>
 
-# Text Style Effect
+# Text Style Effect {#texteffect}
 
 ### Text Style Input Syntax :
 ```
@@ -52,7 +52,7 @@ Emoji in Text  :+1:
 
 <br>
 
-# Insert Link in Text   
+# Insert Link in Text {#insertlink}
 
 ### Insert Link Syntax :
 ```
@@ -64,7 +64,7 @@ eg : [CS Techtube Youtube Channel](https://www.youtube.com/@cstechtube/videos)
 
 <br>
 
-# Insert Image   
+# Insert Image {#insertimage}
 
 ### Insert Image Syntax :
 ```
@@ -76,7 +76,7 @@ eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs
 
 <br>
 
-# Alert Message 
+# Alert Message {#alertbox}
 
 ### Insert Link Syntax :
 ```
@@ -118,7 +118,7 @@ eg : ![CS Techtube](https://cstechtube.com/wp-content/uploads/2023/07/Copy-of-xs
 
 <br>
 
-# Ordered and Unordered List
+# Ordered and Unordered List {#orderlist}
 
 ### Ordered List Syntax :
 ```
@@ -163,7 +163,7 @@ It can be created by using any of this three symbol (*, -, and +)
 
 <br>
 
-# Text Highlighter
+# Text Highlighter {#texthighlighter}
 Helpful to highlight text in paragraph also with can help to mention color code, or any important point using single backtick 
 text should be wrapped inside single backtick (`)
 
@@ -184,7 +184,7 @@ The core purpose of the CSTechtube Channel to make students skillful with both `
 Also useful for color showcase Yellow `#fed700`
 <br>
 
-# Code Block
+# Code Block {#codeblock}
 
 ### Code Block Syntax :
 To Showcase code it need to be wrapped inside 3 Backticks (```)
