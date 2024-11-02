@@ -12,6 +12,7 @@
 10. [Table](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
 11. [Task List](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
 12. [Superscript / Subscript](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
+13. Emojis
 
 
 <br>
@@ -373,15 +374,31 @@ It help to display scientific or maths equations
 
 ### Code Syntax :
 ```
-Subscript = H~2~O  or  H<sub>2</sub>O
+Subscript =  H<sub>2</sub>O
 
-Superscript = X^2^  or  X<sup>2</sup> 
+Superscript =   X<sup>2</sup> 
 ```
 
 ### Output :
 
-Subscript = H~2~O  or  H<sub>2</sub>O
+Subscript =  H<sub>2</sub>O
 
-Superscript = X^2^  or  X<sup>2</sup> 
+Superscript =   X<sup>2</sup> 
 
+
+<br>
+
+<br>
+
+# Using Emoji's
+
+It helps to make document attactive 
+This Git file consist of all short command of emojis which you can use to make doc attractive
+
+### Code Block Table Syntax :
+```
+Hi :wave: I am Darshan Gujrati , Full stack Developer :computer: , Explorer :camping: & Bicyclist 	:bicyclist:
+```
+
+Hi, :wave: I am Darshan Gujrati , Full stack Developer :computer: , Explorer :camping: & Bicyclist 	:bicyclist:
 
