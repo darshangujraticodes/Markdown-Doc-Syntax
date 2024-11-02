@@ -9,9 +9,9 @@
 7. [Text Higlighter](https://github.com/darshangujraticodes/python-practice/blob/main/Markdown-Syntax.md#text-highlighter)
 8. [Code Block](https://github.com/darshangujraticodes/python-practice/blob/main/Markdown-Syntax.md#code-block)
 9. [DropDown Arrow](https://github.com/darshangujraticodes/python-practice/blob/main/Markdown-Syntax.md#dropdown-arrow)
-10. [Table]()
-11. [Task List]()
-12. [Superscript / Subscript]()
+10. [Table](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
+11. [Task List](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
+12. [Superscript / Subscript](https://github.com/darshangujraticodes/Markdown-Doc-Syntax?tab=readme-ov-file#superscript--subscript)
 
 
 <br>
@@ -377,3 +377,11 @@ Subscript = H~2~O  or  H<sub>2</sub>O
 
 Superscript = X^2^  or  X<sup>2</sup> 
 ```
+
+### Output :
+
+Subscript = H~2~O  or  H<sub>2</sub>O
+
+Superscript = X^2^  or  X<sup>2</sup> 
+
+
